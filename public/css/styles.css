@@ -8,7 +8,7 @@ body {
 .menu-bar {
     display: flex;
     justify-content: flex-end; /* Align the menu to the left */
-    background-color: #333;
+    background-color: #4E6C50;
     color: #fff;
     font-family: Arial, sans-serif;
 }
